@@ -1,6 +1,28 @@
 # 🛡️ Integrated Cyber Crime Management System – Python
 
-## 📌 Project Overview
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=CYBER+CRIME+MANAGEMENT+SYSTEM;PYTHON+DESKTOP+APPLICATION;COMPLAINT+MANAGEMENT+SYSTEM;MYSQL+DATABASE+INTEGRATION;SMART+DASHBOARD+%7C+CHATBOT;SECURE+%7C+SMART+%7C+DATA-DRIVEN" alt="Typing Animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CustomTkinter-GUI-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Pillow-Image%20Processing-FF6F00?style=for-the-badge" />
+
+<br><br>
+
+### `REPORT → REGISTER → TRACK → ANALYZE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=100&section=header" />
+
+</div>
+
+---## 📌 Project Overview
 
 This project is a desktop-based **Integrated Cyber Crime Management System** developed using Python. It provides a graphical interface for managing cyber-crime complaints, viewing complaint information, monitoring complaint status, and interacting with a simple help chatbot.
 
